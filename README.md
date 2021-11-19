@@ -24,7 +24,7 @@ public void setInfo() {
   
   funFacts.add("I have two very smol cats, Jake and Pipa");
   funFacts.add("I use ear stretchers since I was 15");
-  funFacts.add("I named my baby after Maya Angelou");
+  funFacts.add("I know hiragana and katakana (Japanese alphabets)");
   
   aboutMe.setFunFacts(funFacts);
 }
@@ -34,7 +34,7 @@ public void setInfo() {
 
 #### I have experience with:
 
-<img align="left" alt="Java" width="50px" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291669.png?token=exp=1635547064~hmac=f7c7a8e37e4ec32a57c667ddedbebc86" />
+<img align="left" alt="Java" width="50px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" />
 
 <img align="left" alt="PosgreSQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <br/>
