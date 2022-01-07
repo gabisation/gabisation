@@ -30,42 +30,23 @@ public void setInfo() {
 }
 ```
 
-## Technologies:
+I'm experienced with:
 
-#### I have experience with:
+<img src="https://img.shields.io/badge/Java-EA2E2F?style=for-the-badge&logo=java&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Spring-63B341?style=for-the-badge&logo=spring&logoColor=white"></img>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 
-<img align="left" alt="Java" title="Java" width="50px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" />
+Currently learning:
 
-<img align="left" alt="PosgreSQL" title="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<br/>
-<br/>
-
-#### I'm currently studying:
-
-<img align="left" alt="JavaScript" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="TypeScript" title="TypeScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
-<img align="left" alt="Angular" title="Angular" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-
-<img align="left" alt="React" title="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="MongoDB" title="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="GraphQL" title="GraphQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<br/>
-<br/>
-
-## Stats:
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
+<img src="https://img.shields.io/badge/GraphQL-D60090?style=for-the-badge&logo=graphql&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Angular-D72F34?style=for-the-badge&logo=angular&logoColor=white"></img>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 
 ![Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabisation&count_private=true&show_icons=true&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabisation&layout=compact&show_icons=true&theme=midnight-purple)
-
-<a target='_blank' href="mailto:gabrielly.barros@hotmail.com">
-  <img src="https://img.shields.io/badge/Contact Me-6505ad?style=for-the-badge">
-</a>
-
-<a target='_blank' href="https://www.linkedin.com/in/gabisation/">
-  <img src="https://img.shields.io/badge/LinkedIn-6505ad?style=for-the-badge">
-</a>
+<div>
+  <a href="mailto:gabrielly.barros@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-1C6AAD?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></img></a>
+  <a href="https://www.linkedin.com/in/gabisation/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+</div>
