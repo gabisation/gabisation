@@ -44,7 +44,7 @@ Currently learning:
 <img src="https://img.shields.io/badge/Angular-D72F34?style=for-the-badge&logo=angular&logoColor=white"></img>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 
-![Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabisation&count_private=true&show_icons=true&theme=midnight-purple)
+<hr/>
 
 <div>
   <a href="mailto:gabrielly.barros@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-1C6AAD?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></img></a>
