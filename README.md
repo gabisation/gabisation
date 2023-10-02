@@ -1,8 +1,8 @@
-## Hello there, I'm Gabi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+<h2>Hello there, I'm Gabi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h2>
 
-### About me
+<h3>About me</h3>
 
-* 💻 Back-end developer (but I can work my way around the front-end if needed)
+* 💻 Back-end developer
 * 📍 Based in Indaiatuba, Brazil
 * 📆 I code for a living since 2015
 * 🧸 Mamma of two beautiful girls
