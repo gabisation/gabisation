@@ -6,7 +6,7 @@
 * 📍 Based in Indaiatuba, Brazil
 * 📆 I code for a living since 2015
 * 🧸 Mamma of two beautiful girls
-* 🎸 Guitar enthusiast
+* 📚 Bookworm enthusiast
 
 I have already worked with these guys:
 
